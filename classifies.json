@@ -1,0 +1,14 @@
+{"_id":{"$oid":"5baca1a550ac810578fe8600"},"classify":"数码家电","__v":0}
+{"_id":{"$oid":"5baca1d950ac810578fe8601"},"classify":"母婴用品","__v":0}
+{"_id":{"$oid":"5baca1e050ac810578fe8602"},"classify":"美妆个护","__v":0}
+{"_id":{"$oid":"5baca1e750ac810578fe8603"},"classify":"运动户外","__v":0}
+{"_id":{"$oid":"5baca1ed50ac810578fe8604"},"classify":"医药保健","__v":0}
+{"_id":{"$oid":"5baca1f250ac810578fe8605"},"classify":"食品酒水","__v":0}
+{"_id":{"$oid":"5baca1f850ac810578fe8606"},"classify":"家具日用","__v":0}
+{"_id":{"$oid":"5baca1fe50ac810578fe8607"},"classify":"钟表首饰","__v":0}
+{"_id":{"$oid":"5baca20450ac810578fe8608"},"classify":"礼品箱包","__v":0}
+{"_id":{"$oid":"5baca20a50ac810578fe8609"},"classify":"汽车用品","__v":0}
+{"_id":{"$oid":"5baca21050ac810578fe860a"},"classify":"服饰鞋帽","__v":0}
+{"_id":{"$oid":"5baca21750ac810578fe860b"},"classify":"生活服务","__v":0}
+{"_id":{"$oid":"5baca24350ac810578fe860c"},"classify":"其他","__v":0}
+{"_id":{"$oid":"5bace8ac55f98e26fc537466"},"classify":"手机","__v":0}
